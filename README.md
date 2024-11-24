@@ -4,6 +4,6 @@
 
 - My current interests are:
   
--Learning Opengl/C++
--Developing a game engine
--Making clone games(such as Terraria, Minecraft)
+  -Learning Opengl/C++
+  -Developing a game engine
+  -Making clone games(such as Terraria, Minecraft)
